@@ -151,8 +151,8 @@
 
 - 世界初の **実在するコンピューター演奏**
 - 演奏曲例：
-  - *Colonel Bogey March(ボギー大佐)*
-  - *Baa Baa Black Sheep*
+  - *Colonel Bogey March(ボギー大佐 録音無し)*
+  - *Baa Baa Black Sheep(録音現存)*
 - プログラムによりスピーカーを直接制御
 
 👉  
